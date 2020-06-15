@@ -1,7 +1,0 @@
-Num1 = 10 # zs
-
-num_manager = 10 # manager
-
-num_zhangsan = 300 # zs
-
-Jsdifjsifsodfijsodfij # manager
